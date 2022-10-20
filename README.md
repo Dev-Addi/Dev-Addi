@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dev-Addi in the world of IT, my real name is Mpumelelo Gabuza!
+- 👋 Hi, I’m @Dev-Addi in the world of IT, my real name is Mpumelelo Kenny Gabuza!
 - 👀 I’m interested in Frontend Development, UX/UI and Data Analyst.
-- 🌱 I’m currently learning ReactJS, Flutter and ASP.NET MVC
+- 🌱 I’m currently learning ReactJS, Flutter and ASP.NET MVC and PHP.
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach ... COMING SOON
 
